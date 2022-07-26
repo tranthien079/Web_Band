@@ -88,7 +88,7 @@
 
     }
 
-    #nav>li :first-child {
+    #nav>li:first-child {
         display: inline-block;
     }
 
